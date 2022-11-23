@@ -11,18 +11,18 @@
       "levelName": "Company D (100% Owned)"
     },
     {
-      "id": "1",
-      "parentId" : "3",
+      "id": "3",
+      "parentId" : "2",
       "levelName": "Company c (80% Owned)"
     },
       {
-      "id": "1",
-      "parentId" : "4",
+      "id": "4",
+      "parentId" : "3",
       "levelName": "Company b (80% Owned)"
     },
       {
-      "id": "1",
-      "parentId" : "5",
+      "id": "5",
+      "parentId" : "4",
       "levelName": "Company a (80% Owned)"
     }
   ],
