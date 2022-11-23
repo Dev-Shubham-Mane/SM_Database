@@ -9,6 +9,21 @@
       "id": "2",
       "parentId" : "1",
       "levelName": "Company D (100% Owned)"
+    },
+    {
+      "id": "1",
+      "parentId" : "2",
+      "levelName": "Company c (80% Owned)"
+    },
+      {
+      "id": "1",
+      "parentId" : "2",
+      "levelName": "Company c (80% Owned)"
+    },
+      {
+      "id": "1",
+      "parentId" : "2",
+      "levelName": "Company c (80% Owned)"
     }
   ],
   "capitalProjects": [
