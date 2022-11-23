@@ -24,6 +24,11 @@
       "id": "5",
       "parentId" : "4",
       "levelName": "Company a (80% Owned)"
+    },
+     {
+      "id": "5",
+      "parentId" : "4",
+      "levelName": "Company a (80% Owned)"
     }
   ], 
   "capitalProjects": [
